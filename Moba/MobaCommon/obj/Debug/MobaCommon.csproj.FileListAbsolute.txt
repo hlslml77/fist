@@ -1,0 +1,7 @@
+E:\MobaU3d\MOBAUI\Assets\plugins\MobaCommon.dll
+E:\MobaU3d\MOBAUI\Assets\plugins\MobaCommon.pdb
+E:\Moba\MobaCommon\obj\Debug\MobaCommon.dll
+E:\Moba\MobaCommon\obj\Debug\MobaCommon.pdb
+E:\MobaU3d\MOBAUI\Assets\Game\plugins\MobaCommon.dll
+E:\MobaU3d\MOBAUI\Assets\Game\plugins\MobaCommon.pdb
+E:\Moba\MobaCommon\obj\Debug\MobaCommon.csprojResolveAssemblyReference.cache
